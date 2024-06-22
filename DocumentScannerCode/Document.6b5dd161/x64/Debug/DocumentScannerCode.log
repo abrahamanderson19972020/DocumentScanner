@@ -1,0 +1,24 @@
+﻿  Main.cpp
+C:\Users\abrah\Desktop\RealProjects\DocumentScanner\DocumentScannerCode\Main.cpp(32,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\abrah\Desktop\RealProjects\DocumentScanner\DocumentScannerCode\Main.cpp(35,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\abrah\Desktop\RealProjects\DocumentScanner\DocumentScannerCode\Main.cpp(77,52): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+C:\Users\abrah\Desktop\RealProjects\DocumentScanner\DocumentScannerCode\Main.cpp(77,52): warning C4244:         with
+C:\Users\abrah\Desktop\RealProjects\DocumentScanner\DocumentScannerCode\Main.cpp(77,52): warning C4244:         [
+C:\Users\abrah\Desktop\RealProjects\DocumentScanner\DocumentScannerCode\Main.cpp(77,52): warning C4244:             _Tp=int
+C:\Users\abrah\Desktop\RealProjects\DocumentScanner\DocumentScannerCode\Main.cpp(77,52): warning C4244:         ]
+C:\Users\abrah\Desktop\RealProjects\DocumentScanner\DocumentScannerCode\Main.cpp(77,49): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+C:\Users\abrah\Desktop\RealProjects\DocumentScanner\DocumentScannerCode\Main.cpp(77,49): warning C4244:         with
+C:\Users\abrah\Desktop\RealProjects\DocumentScanner\DocumentScannerCode\Main.cpp(77,49): warning C4244:         [
+C:\Users\abrah\Desktop\RealProjects\DocumentScanner\DocumentScannerCode\Main.cpp(77,49): warning C4244:             _Tp=int
+C:\Users\abrah\Desktop\RealProjects\DocumentScanner\DocumentScannerCode\Main.cpp(77,49): warning C4244:         ]
+C:\Users\abrah\Desktop\RealProjects\DocumentScanner\DocumentScannerCode\Main.cpp(104,31): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+C:\Users\abrah\Desktop\RealProjects\DocumentScanner\DocumentScannerCode\Main.cpp(104,31): warning C4244:         with
+C:\Users\abrah\Desktop\RealProjects\DocumentScanner\DocumentScannerCode\Main.cpp(104,31): warning C4244:         [
+C:\Users\abrah\Desktop\RealProjects\DocumentScanner\DocumentScannerCode\Main.cpp(104,31): warning C4244:             _Tp=int
+C:\Users\abrah\Desktop\RealProjects\DocumentScanner\DocumentScannerCode\Main.cpp(104,31): warning C4244:         ]
+C:\Users\abrah\Desktop\RealProjects\DocumentScanner\DocumentScannerCode\Main.cpp(104,22): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+C:\Users\abrah\Desktop\RealProjects\DocumentScanner\DocumentScannerCode\Main.cpp(104,22): warning C4244:         with
+C:\Users\abrah\Desktop\RealProjects\DocumentScanner\DocumentScannerCode\Main.cpp(104,22): warning C4244:         [
+C:\Users\abrah\Desktop\RealProjects\DocumentScanner\DocumentScannerCode\Main.cpp(104,22): warning C4244:             _Tp=int
+C:\Users\abrah\Desktop\RealProjects\DocumentScanner\DocumentScannerCode\Main.cpp(104,22): warning C4244:         ]
+  DocumentScannerCode.vcxproj -> C:\Users\abrah\Desktop\RealProjects\DocumentScanner\DocumentScannerCode\x64\Debug\DocumentScannerCode.exe
